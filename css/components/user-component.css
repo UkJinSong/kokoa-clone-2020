@@ -45,3 +45,13 @@
   display: block;
   padding-bottom: 10px;
 }
+
+.user-component__dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: absolute;
+  right: -6px;
+  bottom: 25px;
+}
